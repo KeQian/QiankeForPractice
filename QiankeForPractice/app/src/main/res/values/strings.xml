@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">QiankeForPractice</string>
+
+    <!-- iconfont 图标 -->
+    <!-- 我的足迹 -->
+    <string name="xe629">&#xe629;</string>
+    <!-- 首页 -->
+    <string name="firststring1">&#xe639;</string>
+    <string name="firststring2">&#xe639;</string>
+    <!-- 理财 -->
+    <string name="twostring1">&#xe661;</string>
+    <string name="twostring2">&#xe661;</string>
+    <!-- 特惠购 -->
+    <string name="threestring1">&#xe63a;</string>
+    <string name="threetstring2">&#xe63a;</string>
+    <!-- 账户 -->
+    <string name="fourstring1">&#xe63e;</string>
+    <string name="fourtstring2">&#xe63e;</string>
+    <!-- 我的 -->
+    <string name="fivestring1">&#xe641;</string>
+    <string name="fivetstring2">&#xe641;</string>
+    <!-- 奖励 -->
+    <string name="iconfont_xe63b">&#xe63b;</string>
+    <!-- 我的消息 -->
+    <string name="iconfont_xe62d">&#xe62d;</string>
+    <!-- 伙伴管理 -->
+    <string name="iconfont_xe62b">&#xe62b;</string>
+    <!-- 搜索 -->
+    <string name="iconfont_xe631">&#xe631;</string>
+    <!-- 活动专区 -->
+    <string name="iconfont_xe62a">&#xe62a;</string>
+    <!-- 返回按钮 -->
+    <string name="iconfont_xe683">&#xe683;</string>
+    <!-- 关于财富晕 -->
+    <string name="iconfont_xe65b">&#xe65b;</string>
+    <!-- 关于财富商学院 -->
+    <string name="iconfont_xe666">&#xe666;</string>
+    <!-- 培训园地 -->
+    <string name="iconfont_xe6a7">&#xe6a7;</string>
+    <!-- 其他 -->
+    <string name="iconfont_xe67c">&#xe67c;</string>
+    <!-- 保险 -->
+    <string name="iconfont_xe67e">&#xe67e;</string>
+    <!-- 私募基金 -->
+    <string name="iconfont_xe682">&#xe682;</string>
+    <!-- 互联网金融 -->
+    <string name="iconfont_xe687">&#xe687;</string>
+    <!-- 资管 -->
+    <string name="iconfont_xe688">&#xe688;</string>
+    <!-- 公募基金 -->
+    <string name="iconfont_xe689">&#xe689;</string>
+    <!-- 我要分享 -->
+    <string name="iconfont_xe624">&#xe624;</string>
+    <!-- 扫一扫 -->
+    <string name="iconfont_xe6b4">&#xe6b4;</string>
+    <!-- 产品管理 -->
+    <string name="iconfont_xe622">&#xe622;</string>
+    <!-- 关于百宝箱 -->
+    <string name="iconfont_xe626">&#xe626;</string>
+    <!-- 店铺管理 -->
+    <string name="iconfont_xe623">&#xe623;</string>
+    <!-- 好友管理 -->
+    <string name="iconfont_xe627">&#xe627;</string>
+    <!-- 好友投资 -->
+    <string name="iconfont_xe628">&#xe628;</string>
+    <!-- 帮助中心 -->
+    <string name="iconfont_xe659">&#xe659;</string>
+    <!-- 广告语1 -->
+    <string name="iconfont_xe6ab">&#xe6af;</string>
+    <!-- 广告语2 -->
+    <string name="iconfont_xe6aa">&#xe6b0;</string>
+    <!-- 披露 -->
+    <string name="iconfont_xe6a9">&#xe6a9;</string>
+    <!-- 分享 -->
+    <string name="iconfont_xe6a8">&#xe6a8;</string>
+    <!-- 足迹 -->
+    <string name="iconfont_xe629">&#xe629;</string>
+    <!-- 客户服务 -->
+    <string name="iconfont_xe6b8">&#xe6b8;</string>
+    <!-- 更新 -->
+    <string name="iconfont_xe625">&#xe625;</string>
+    <!-- 产品类型，资管 -->
+    <string name="iconfont_xe67d">&#xe67d;</string>
+    <!-- 箭头右-->
+    <string name="iconfont_xe6b9">&#xe6b9;</string>
+    <!-- 箭头左-->
+    <string name="iconfont_xe6ba">&#xe6ba;</string>
+    <!-- 计划书-->
+    <string name="iconfont_xe6bc">&#xe6bc;</string>
+
+
+</resources>
